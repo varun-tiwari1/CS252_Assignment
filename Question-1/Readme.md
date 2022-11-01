@@ -1,4 +1,4 @@
-## Question- 2.24 Solution
+## Question- 2.24 - Solution
 
 > Note: All the information written below is specific to Ubuntu operating system
 
