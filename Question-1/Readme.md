@@ -29,7 +29,7 @@ For running- `./a.out`
 
 ## Screenshot
 
-![alt text](/strace_log_Execution.png)
+![alt text](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-1/strace_log_Execution.png)
 
 ## Implementation
 
