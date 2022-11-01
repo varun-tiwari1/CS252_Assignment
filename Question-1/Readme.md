@@ -18,6 +18,19 @@ For running- `./a.out`
 
 ![alt text](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-1/run_code_shell_image.png)
 
+## Command to create an log file to track all the system calls in this operation
+
+- Command- `strace -ostrace_log ./a.out`
+
+- The command will prompt the user to provide the name of the source file and the destination file
+
+- If it has been executed successfully, a "Success" message will be prompted to the screen(shell).
+
+
+## Screenshot
+
+![alt text](https://github.com/varun-tiwari1/CS252_Assignment/commit/252f48ba4b98b11cd57a8ebf8aa047438bd2debd)
+
 ## Implementation
 
 - The program of copying the contents from source file and pasting it to destination file is written in c programming language.
