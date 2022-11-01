@@ -29,7 +29,7 @@ For running- `./a.out`
 
 ## Screenshot
 
-![alt text](https://github.com/varun-tiwari1/CS252_Assignment/commit/252f48ba4b98b11cd57a8ebf8aa047438bd2debd)
+![alt text](https://github.com/varun-tiwari1/CS252_Assignment/commit/52fb31bc1fd687dbdc3caa417a8ed565bb7fc282)
 
 ## Implementation
 
