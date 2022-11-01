@@ -29,7 +29,7 @@ For running- `./a.out`
 
 ## Screenshot
 
-![alt text](https://github.com/varun-tiwari1/CS252_Assignment/commit/52fb31bc1fd687dbdc3caa417a8ed565bb7fc282)
+![alt text](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-1/strace_log_Execution.png)
 
 ## System Calls log file
 
