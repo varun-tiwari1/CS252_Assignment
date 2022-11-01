@@ -16,7 +16,7 @@ For running- `./a.out`
 
 ## Screenshot
 
-![alt text]()
+![alt text](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-1/run_code_shell_image.png)
 
 ## Implementation
 
