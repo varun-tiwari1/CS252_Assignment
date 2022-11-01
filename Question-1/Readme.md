@@ -31,6 +31,10 @@ For running- `./a.out`
 
 ![alt text](https://github.com/varun-tiwari1/CS252_Assignment/commit/52fb31bc1fd687dbdc3caa417a8ed565bb7fc282)
 
+## System Calls log file
+
+[strace_log file](https://github.com/varun-tiwari1/CS252_Assignment/commit/8ac0816d127468581176d3f91b17075c09f82188)
+
 ## Implementation
 
 - The program of copying the contents from source file and pasting it to destination file is written in c programming language.
