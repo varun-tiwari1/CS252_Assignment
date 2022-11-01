@@ -29,3 +29,14 @@ For running- `./a.out`
 - The commands discussed above to compile and run the code in order to perform the copy paste operation.
 
 - Then strace log file is created to keep track of all the system calls made during this operation. 
+
+## References
+
+- C code for copy-paste operation - geeksforgeeks
+
+- For understanding system calls- websites like gfg,stackoverflow.OS Concepts mentioned above,You Tube.
+
+- For understanding commands and syntax- websites like gfg,stackoverflow,man7.org,etc
+
+- For assistance Dev Agrawal-
+201ME169 and Vincent Paul- 201ME365
