@@ -7,6 +7,10 @@
 
 - The program for calculating the average, minimum and maximum value among given values is written in c programming language.
 
+- Program has three functions named t_avg,t_min and t_max which finds average, minimum and maximum respectively for the input numbers.
+
+- We created 3 threads using dataType pthread_t
+
 
 
 ## References
@@ -19,7 +23,7 @@
 
 - For understanding commands and syntax- websites like gfg,includehelp,etc
 
-- For assistance Satyam Kalyane- 201IT269 and Lohith N- 201IT1
+- For assistance Satyam Kalyane- 201IT269 and Lohith N - 201IT133
 
 
 
