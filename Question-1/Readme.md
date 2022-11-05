@@ -49,7 +49,8 @@ For running- `./a.out`
 
 ## References
 
-- C code for copy-paste operation - https://www.geeksforgeeks.org/c-program-copy-contents-one-file-another-file/
+- C code for copy-paste operation -
+> https://www.geeksforgeeks.org/c-program-copy-contents-one-file-another-file/
 
 - For understanding system calls- websites like gfg,stackoverflow.OS Concepts mentioned above,You Tube.
 
