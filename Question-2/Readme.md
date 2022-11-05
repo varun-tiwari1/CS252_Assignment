@@ -19,7 +19,13 @@
 
 - For understanding concept of Threads and Multithreading - CS Minor Lectures by Mr. Mohit P Tahiliani and textbook OS Concepts by Silberchartz
 
-- Websites - geeksforgeeks,stackoverflow,man7.org,etc
+- Websites - [https://www.geeksforgeeks.org/thread-functions-in-c-c/#:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B](https://www.geeksforgeeks.org/thread-functions-in-c-c/#:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B)
+
+[https://www.includehelp.com/c-programming-questions/compiling-program-with-pthread-library-linux.aspx](https://www.includehelp.com/c-programming-questions/compiling-program-with-pthread-library-linux.aspx)
+
+[https://askubuntu.com/questions/420722/how-to-compile-a-c-program-that-uses-pthread-h](https://askubuntu.com/questions/420722/how-to-compile-a-c-program-that-uses-pthread-h)
+
+
 
 - For understanding Commands and Syntax-
  Websites- [geeksforgeeks](https://www.geeksforgeeks.org/thread-functions-in-c-c/#:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B) ,
