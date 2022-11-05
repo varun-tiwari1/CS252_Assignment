@@ -35,7 +35,13 @@ Code - `time ./a.out`
 
 - Program has three functions named t_avg,t_min and t_max which finds average, minimum and maximum respectively for the input numbers.
 
-- We created 3 threads using dataType pthread_t
+- We created 3 threads t1 , t2 and t3 using dataType pthread_t. The above functions are executed in the respective threads created above.
+
+- The average function is operated in thread t1
+- The minimum function is operated in thread t2
+- The maximum function is operated in thread t3
+- Then these threads will do the respective calculations and will be terminated . Then returns the results of the calculations by using the function pthread_join.
+
 
 
 
@@ -47,7 +53,7 @@ Code - `time ./a.out`
 
 - Websites -
 
-> [https://www.geeksforgeeks.org/thread-functions-in-c-c:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B](https://www.geeksforgeeks.org/thread-functions-in-c-c/#:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B)
+> [https://www.geeksforgeeks.org/thread-functions-in-c-c:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B](https://www.geeksforgeeks.org/thread-functions-in-c-c:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B)
 
 > [https://www.includehelp.com/c-programming-questions/compiling-program-with-pthread-library-linux.aspx](https://www.includehelp.com/c-programming-questions/compiling-program-with-pthread-library-linux.aspx)
 
