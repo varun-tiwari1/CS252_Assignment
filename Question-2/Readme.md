@@ -17,6 +17,10 @@ This program will prompt to ask you to enter the number of elements or values .T
 
 After the successful execution of this code we get the required average , minimum and maximum values of the entered values on the screen.
 
+## Screenshot 
+
+![alttext](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-2/Running_a_Program.png)
+
 ## Implementation
 
 - The program for calculating the average, minimum and maximum value among given values is written in c programming language.
