@@ -53,7 +53,15 @@ For running- `./a.out`
 
 - For understanding system calls- websites like gfg,stackoverflow.OS Concepts mentioned above,You Tube.
 
-- For understanding commands and syntax- websites like gfg,stackoverflow,man7.org,etc
+-Websites
 
-- For assistance Dev Agrawal-
+> https://www.geeksforgeeks.org/introduction-of-system-call/
+
+>https://www.guru99.com/system-call-operating-system.html
+
+
+- For understanding Commands and Syntax- websites like 
+> https://www.geeksforgeeks.org/strace-command-in-linux-with-examples/
+
+- For Assistance of code Dev Agrawal-
 201ME169 and Vincent Paul- 201ME365
