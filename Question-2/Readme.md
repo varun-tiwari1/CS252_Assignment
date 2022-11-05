@@ -37,13 +37,15 @@ After the successful execution of this code we get the required average , minimu
 
 - For understanding concept of Threads and Multithreading - CS Minor Lectures by Mr. Mohit P Tahiliani and textbook OS Concepts by Silberchartz
 
-- Websites - [https://www.geeksforgeeks.org/thread-functions-in-c-c/#:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B](https://www.geeksforgeeks.org/thread-functions-in-c-c/#:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B)
+- Websites -
 
-[https://www.includehelp.com/c-programming-questions/compiling-program-with-pthread-library-linux.aspx](https://www.includehelp.com/c-programming-questions/compiling-program-with-pthread-library-linux.aspx)
+> [https://www.geeksforgeeks.org/thread-functions-in-c-c:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B](https://www.geeksforgeeks.org/thread-functions-in-c-c/#:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B)
 
-[https://askubuntu.com/questions/420722/how-to-compile-a-c-program-that-uses-pthread-h](https://askubuntu.com/questions/420722/how-to-compile-a-c-program-that-uses-pthread-h)
+> [https://www.includehelp.com/c-programming-questions/compiling-program-with-pthread-library-linux.aspx](https://www.includehelp.com/c-programming-questions/compiling-program-with-pthread-library-linux.aspx)
 
-[https://www.ibm.com/docs/en/zos/2.3.0?topic=functions-pthread-create-create-thread#ptcrea](https://www.ibm.com/docs/en/zos/2.3.0?topic=functions-pthread-create-create-thread#ptcrea)
+> [https://askubuntu.com/questions/420722/how-to-compile-a-c-program-that-uses-pthread-h](https://askubuntu.com/questions/420722/how-to-compile-a-c-program-that-uses-pthread-h)
+
+> [https://www.ibm.com/docs/en/zos/2.3.0?topic=functions-pthread-create-create-thread#ptcrea](https://www.ibm.com/docs/en/zos/2.3.0?topic=functions-pthread-create-create-thread#ptcrea)
 
 
 
