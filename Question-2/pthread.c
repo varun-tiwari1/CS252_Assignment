@@ -23,7 +23,7 @@ void input()
 }
 
 /* Thread-1 */
-void *thread_average()
+void *t_avg()
 {
     float sum=0;
     for(i=0;i<count;i++)
@@ -35,7 +35,7 @@ void *thread_average()
 }
 
 /*  Thread-2    */
-void *thread_minimum()
+void *t_min()
 {
     float temp;
     temp = array[0];
@@ -51,7 +51,7 @@ void *thread_minimum()
 }
 
 /*  Thread-3    */
-void *thread_maximum()
+void *t_max()
 {
     float temp;
     temp = array[0];
@@ -74,11 +74,11 @@ int main(void)
     pthread_t t2;
     pthread_t t3;
     
-   threads[0]=pthread_create(&t1,NULL,&thread_average,NULL);
+   threads[0]=pthread_create(&t1,NULL,&t_avg,NULL);
 	
-   threads[1]=pthread_create(&t2,NULL,&thread_minimum,NULL);
+   threads[1]=pthread_create(&t2,NULL,&t_min,NULL);
 	
-   threads[2]=pthread_create(&t3,NULL,&thread_maximum,NULL);
+   threads[2]=pthread_create(&t3,NULL,&t_max,NULL);
 
     pthread_join(t1,NULL);
 
