@@ -15,15 +15,17 @@
 
 ## References
 
-- C code for calculating average,minimum and maximum - StackOverflow 
+- C code for calculating average,minimum and maximum - [https://gist.github.com/Jabiribn/e58bf13c678953891900e5f982b48037]() 
 
-- For understanding concept of Threads and Multithreading - CS Minor Lectures by Mr. Mohit P Tahiliani and textbook
+- For understanding concept of Threads and Multithreading - CS Minor Lectures by Mr. Mohit P Tahiliani and textbook OS Concepts by Silberchartz
 
-- Websites - gfg,stackoverflow,man7.org,etc
+- Websites - geeksforgeeks,stackoverflow,man7.org,etc
 
-- For understanding commands and syntax- websites like gfg,includehelp,etc
+- For understanding Commands and Syntax-
+ Websites- [geeksforgeeks](https://www.geeksforgeeks.org/thread-functions-in-c-c/#:~:text=To%20execute%20the%20c%20file,line%20while%20compiling%20the%20file.&text=Syntax%3A,void%20*%2C%20void%20*arg%3B) ,
+ [Includehelp](https://www.includehelp.com/c-programming-questions/compiling-program-with-pthread-library-linux.aspx) , [askubuntu](https://askubuntu.com/questions/420722/how-to-compile-a-c-program-that-uses-pthread-h)
 
-- For assistance Satyam Kalyane- 201IT269 and Lohith N - 201IT133
+- For Assistance Satyam Kalyane- 201IT269 and Lohith N - 201IT133
 
 
 
