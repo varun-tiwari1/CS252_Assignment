@@ -57,6 +57,39 @@ Table of System Calls
 
 - Then strace log file is created to keep track of all the system calls made during this operation. 
 
+## List of Some System Calls in this operation
+
+### 1. openat
+- Open a file relative to a directory file descriptor
+
+### 2. read
+- Reads from a file descriptor
+
+### 3. write
+- Writes to a file descriptor
+
+### 4. close 
+- Closes a file descriptor
+
+### 5. mmap
+- map files or devices into memory
+
+### 6. brk
+- change data segment size
+
+### 7. access
+- checks whether the calling process can access the file pathname.
+
+### 8. pread64
+- read from a file descriptor at a given offset
+
+### 9. mprotect
+- set protection on a region of memory
+
+### 10. lseek
+- reposition read/write file offset
+
+
 ## References
 
 - C code for copy-paste operation -
