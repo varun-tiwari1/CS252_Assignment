@@ -26,6 +26,14 @@ For running- `./a.out`
 
 - If it has been executed successfully, a "Success" message will be prompted to the screen(shell).
 
+## Screenshot
+
+![alt text](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-1/strace_log_Execution.png)
+
+## System Calls log file
+
+[strace_log file](https://github.com/varun-tiwari1/CS252_Assignment/commit/8ac0816d127468581176d3f91b17075c09f82188)
+
 ## Number of times Each Systems Call is Called
 
 Command - `strace -c ./a.out`
@@ -35,15 +43,6 @@ Command - `strace -c ./a.out`
 Table of System Calls
 
 ![alttext](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-1/System_calls_table.png)
-
-
-## Screenshot
-
-![alt text](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-1/strace_log_Execution.png)
-
-## System Calls log file
-
-[strace_log file](https://github.com/varun-tiwari1/CS252_Assignment/commit/8ac0816d127468581176d3f91b17075c09f82188)
 
 ## Implementation
 
