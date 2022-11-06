@@ -42,6 +42,37 @@ Code - `time ./a.out`
 - The maximum function is operated in thread t3
 - Then these threads will do the respective calculations and will be terminated . Then returns the results of the calculations by using the function pthread_join.
 
+## pthread Functions used
+
+### pthread_create() function
+
+
+> int pthread_create(pthread_t *thread, const pthread_attr_t *__restrict__attr, void *(*start_routine)(void *), void *restrict arg);
+
+- First argument is a pointer to pthread_t type that is the data type for threads. It creates a new thread which has already been defined as t1, t2, t3 respectively.
+
+- Second argument is attr pointing to a pthread_attr_t structure to determine attributes for the new thread. In our case attr is given as NULL, as we want the thread to be created with default attributes.
+
+- Third argument is a pointer to the start_routine of a thread. It is the part of the code that is executed by a particular thread.
+
+- Fourth Argument is the argument passed to start_routine(). In our case it is NULL i.e. no arg is passed to our start_routine.
+
+- On success, these functions returns 0
+
+- On error, they return a nonzero error number.
+
+### pthread_join() function
+
+>int pthread_join(pthread_t thread, void **retval);
+
+- The pthread_join() function waits for the thread to terminate. If that thread has already terminated, then pthread_join() returns immediately
+
+- First argument is a pthread_t type that is the data type for threads which has already been defined as t1, t2 and t3 respectively.
+
+- Second argument is retval which specifies the exit status of the thread. If it is not NULL then it has the exit status of thread when pthread_exit() was called. In our case we haven't called pthread_exit() before pthread_join() hence we give argument as NULL.
+
+
+
 
 
 
