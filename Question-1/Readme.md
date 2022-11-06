@@ -26,6 +26,16 @@ For running- `./a.out`
 
 - If it has been executed successfully, a "Success" message will be prompted to the screen(shell).
 
+## Number of times Each Systems Call is Called
+
+Command - `strace -c ./a.out`
+
+## Screenshot
+
+Table of System Calls
+
+![alttext](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-1/System_calls_table.png)
+
 
 ## Screenshot
 
