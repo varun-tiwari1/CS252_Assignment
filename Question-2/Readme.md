@@ -7,7 +7,7 @@
 
 ## Running a Program
 
-The c code file named varun.c is kept in the replit(online) repository. Then in shell the code has been compiled and run using commands -
+The c code file named threaded_program.c is kept in the replit(online) repository. Then in shell the code has been compiled and run using commands -
 
 For Compiling -  `gcc -pthread -w threaded_program.c`
 
