@@ -40,7 +40,7 @@ Code - `time ./a.out`
 - The average function is operated in thread t1
 - The minimum function is operated in thread t2
 - The maximum function is operated in thread t3
-- Then these threads will do the respective calculations and will be terminated . Then returns the results of the calculations by using the function pthread_join.
+- Then these threads will do the respective calculations and will be terminated . Then we wait for the thread to terminate or terminate the thread by getting the exit status using the function pthread_join.
 
 ## pthread Functions used
 
