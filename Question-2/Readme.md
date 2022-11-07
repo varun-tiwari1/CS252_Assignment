@@ -7,9 +7,9 @@
 
 ## Running a Program
 
-The c code file named Threaded_Program.c is kept in the replit(online) repository. Then in shell the code has been compiled and run using commands -
+The c code file named main.c is kept in the replit(online) repository. Then in shell the code has been compiled and run using commands -
 
-For Compiling -  `gcc -pthread -w threaded_program.c`
+For Compiling -  `gcc -pthread -w main.c`
 
 For Running -  `./a.out`
 
